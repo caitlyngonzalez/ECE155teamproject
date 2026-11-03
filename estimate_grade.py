@@ -1,6 +1,7 @@
 import csv
 import math
 
+
 input_file = "danehy_synthetic.csv"
 output_file = "danehy_estimated.csv"
 
